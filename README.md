@@ -15,10 +15,10 @@ Some cool stuff we will do today:
 
 English manuals:
 
-<a href="https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/english/CDP-PC-CDF.pdf" target="_blank">CDF lab</a>  
-<a href="https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/english/CDP-PC-CDE.pdf" target="_blank">CDE lab</a>  
-<a href="https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/english/CDP-PC-CDW.pdf" target="_blank">CDW lab</a>  
-<a href="https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/english/CDP-PC-CML.pdf" target="_blank">CML lab</a> 
+<a href="https://github.com/pquinones/ClouderaHandsOn/blob/main/lab_guides_pdf/english/CDP-PC-CDF.pdf" target="_blank">CDF lab</a>  
+<a href="https://github.com/pquinones/ClouderaHandsOn/blob/main/lab_guides_pdf/english/CDP-PC-CDE.pdf" target="_blank">CDE lab</a>  
+<a href="https://github.com/pquinones/ClouderaHandsOn/blob/main/lab_guides_pdf/english/CDP-PC-CDW.pdf" target="_blank">CDW lab</a>  
+<a href="https://github.com/pquinones/ClouderaHandsOn/blob/main/lab_guides_pdf/english/CDP-PC-CML.pdf" target="_blank">CML lab</a> 
 
 <!--
 
