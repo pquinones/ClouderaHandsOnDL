@@ -7,7 +7,7 @@ Please connect to Lab Environment
 Environment URL: https://bit.ly/HOL1130
 
 Username:         user001 - user050  
-Access Password:  G0yvxvdms5srhyKF
+Access Password:  
 
 ## Lab Guide
 
