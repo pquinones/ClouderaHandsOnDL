@@ -43,6 +43,7 @@ Spanish manuals:
 <a href="https://github.com/campossalex/ClouderaHandsOn/blob/main/lab_guides_pdf/spanish/CDP-PC-CML.pdf" target="_blank">CML lab</a>  
 -->
 
+<!-- 
 ## CML github repo url  
 https://github.com/campossalex/TelcoChurn
 
@@ -65,3 +66,4 @@ SELECT * FROM user001.telco_data_curated FOR SYSTEM_VERSION AS OF snapshotid
 
 ``` 
 
+-->
